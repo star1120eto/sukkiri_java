@@ -1,3 +1,4 @@
+package part1;
 public class prac1_3 {
     public static void main(String[] args) {
         boolean is = true;

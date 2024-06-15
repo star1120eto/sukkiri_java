@@ -1,3 +1,4 @@
+package part1;
 public class square {
     public static void main(String[] args) {
         int vertical = 3; // 縦
