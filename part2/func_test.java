@@ -11,7 +11,7 @@ public class func_test {
         int na=Integer.parseInt(n);
         System.out.println("Integer.parseInt()は文字を数値に変換する。999は最初文字だけど数値にすると → "+na);
 
-        int r = new java.util.Random().nextInt(90);
+        int r = new java.util.Random().nextInt(1000);
         System.out.println("私は"+r+"歳です。");
     }
 }
